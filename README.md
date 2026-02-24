@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="per_scholas_logo.png" width="300">
+</p>
+# Guided LAB-385.1.2 – Virtual Environment
+---
 Per Scholas
 Guided LAB-385.1.2 - VirtualEnvironment
 Introduction
