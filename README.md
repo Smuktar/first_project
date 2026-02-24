@@ -3,7 +3,6 @@
 </p>
 
 ---
-Per Scholas
 # Guided LAB-385.1.2 - VirtualEnvironment
 ## Introduction
 Create Virtual Environment using venv, virtualenv and conda modules
