@@ -1,18 +1,18 @@
-<p align="center">
+<p align="left">
   <img src="per_scholas_logo.png" width="300">
 </p>
-# Guided LAB-385.1.2 – Virtual Environment
+
 ---
 Per Scholas
-Guided LAB-385.1.2 - VirtualEnvironment
-Introduction
+# Guided LAB-385.1.2 - VirtualEnvironment
+## Introduction
 Create Virtual Environment using venv, virtualenv and conda modules
 
-Lab Overview
+## Lab Overview
 In this lab, we will demonstrate how to create virtual environment. Learner should be able to create and activate virtual envrironment using venv, virtualenv and conda module by the end of this lab.
 
-Examples
-Example 1: How to create and activate a virtual environment in Python using venv module
+## Examples
+### Example 1: How to create and activate a virtual environment in Python using venv module
 First, open your command prompt or terminal and navigate to the directory where you want to create the virtual environment.
 
 Next, create a new virtual environment by running the following command:
@@ -33,16 +33,16 @@ This will activate the virtual environment and you will see its name displayed i
 You can now install any required packages or dependencies within this virtual environment using pip. For example:
 
 pip install pandas
-For Jupyter Notebook Users
-Example 2: How to create and activate Python Virtual Environments in Jupyter NoteBook
+# For Jupyter Notebook Users
+## Example 2: How to create and activate Python Virtual Environments in Jupyter NoteBook
 Click on the link --> (https://github.com/haseeb1988/virtualenv_Jupyter.git)
 
-For Google COLAB Users
-Example 3 : How to create and activate Python virtual environment in Google COLAB
+# For Google COLAB Users
+## Example 3 : How to create and activate Python virtual environment in Google COLAB
 Click on the link: --> https://colab.research.google.com/drive/1H2zgabuBjHno7f1fzYuw5NfG8nuF_y9L?usp=sharing
 
-For Anaconda Users
-Example 4: How to create and activate Python virtual environment using conda module
+# For Anaconda Users
+## Example 4: How to create and activate Python virtual environment using conda module
 Open a command prompt or terminal window.
 
 Enter the command
